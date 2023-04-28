@@ -41,6 +41,12 @@
       "name": "Горилла",
       "description": "Умеет резать",
       "element": "fire"
+    },
+    {
+      "id": "ac1926ad-8c22-4135-87c2-d40f10b25fc0",
+      "name": "Сильный",
+      "description": "Умеет быть сильным",
+      "element": "earth"
     }
   ],
   "filters": [
