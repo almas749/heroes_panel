@@ -1,0 +1,78 @@
+{
+  "heroes": [
+    {
+      "id": 2,
+      "name": "Неизвестный герой",
+      "description": "Скрывающийся в тени",
+      "element": "wind"
+    },
+    {
+      "id": "b7ae471c-9abe-44bd-b432-ee9fd3c84883",
+      "name": "Гений",
+      "description": "Умеет читать",
+      "element": "water"
+    },
+    {
+      "id": "2884778c-ad34-4543-bb88-30bc207524c4",
+      "name": "Слабый",
+      "description": "Умеет быть слабым",
+      "element": "earth"
+    },
+    {
+      "id": "39b3d054-a408-438a-a59d-a3bfb604bd28",
+      "name": "Каратель",
+      "description": "Ненавидит преступность",
+      "element": "fire"
+    },
+    {
+      "id": "c6f7e997-154e-4a5a-8dc1-49d0d79d6ec6",
+      "name": "Евгений",
+      "description": "Умеет евгенить",
+      "element": "water"
+    },
+    {
+      "id": "df33ee73-d27e-499f-bc09-878eff29723c",
+      "name": "Олег",
+      "description": "Грогу",
+      "element": "wind"
+    },
+    {
+      "id": "0c5ff365-ef52-475a-b87b-8e63b03b8278",
+      "name": "Горилла",
+      "description": "Умеет резать",
+      "element": "fire"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "id": "wind",
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "id": "earth",
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
